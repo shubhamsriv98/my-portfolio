@@ -2,8 +2,10 @@ node_modules
 dist
 .DS_Store
 *.local
-*.jpg
-*.jpeg
-*.png
-*.webp
-!public/**
+.env
+
+# loose images in project root (use public/images for source files)
+/*.jpg
+/*.jpeg
+/*.png
+/*.webp
