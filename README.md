@@ -6,7 +6,7 @@ A React portfolio inspired by [ashutoshsaraf.me](https://ashutoshsaraf.me/), bui
 
 - Hero section with typing animation
 - Education, Experience, and Projects horizontal card scrollers
-- Interactive draggable honeycomb skills sections
+- Interactive bento grid skills sections
 - Contact form and social links grid
 - Scroll progress bar and section banner
 - Fully responsive mobile navigation

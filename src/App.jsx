@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import HorizontalCards from './components/HorizontalCards';
-import SkillsHoneycomb from './components/SkillsHoneycomb';
+import SkillsBentoGrid from './components/SkillsBentoGrid';
 import Contact from './components/Contact';
 import ProgressBar from './components/ProgressBar';
 import { portfolioData } from './data/portfolioData';
@@ -136,7 +136,7 @@ function App() {
         ref={refs.TechSkills}
         data-section-name="Technical Skills"
       >
-        <SkillsHoneycomb
+        <SkillsBentoGrid
           title="Technical Skills"
           marqueeText="Technical Skills"
           skills={portfolioData.technicalSkills}
@@ -148,7 +148,7 @@ function App() {
         ref={refs.NonTechSkills}
         data-section-name="Non-Technical Skills"
       >
-        <SkillsHoneycomb
+        <SkillsBentoGrid
           title="Non-Technical Skills"
           marqueeText="Non-Tech Skills"
           skills={portfolioData.nonTechnicalSkills}

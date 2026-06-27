@@ -89,12 +89,12 @@ export const portfolioData = {
 
   technicalSkills: [
     [
-      { name: 'Java', icon: 'java-coffee-cup.png' },
-      { name: 'Spring Boot', icon: 'spring-logo.png' },
+      { name: 'Java', icon: 'java-coffee-cup.png', size: 'hero' },
+      { name: 'Spring Boot', icon: 'spring-logo.png', size: 'hero' },
       { name: 'Spring Core', icon: 'leaf.png' },
     ],
     [
-      { name: 'Microservices', icon: 'services.png' },
+      { name: 'Microservices', icon: 'services.png', size: 'hero' },
       { name: 'Spring Data JPA', icon: 'database.png' },
       { name: 'Spring Security', icon: 'shield.png' },
       { name: 'JWT', icon: 'password.png' },
