@@ -89,8 +89,8 @@ export const portfolioData = {
 
   technicalSkills: [
     [
-      { name: 'Java', icon: 'java-coffee-cup.png', size: 'hero' },
-      { name: 'Spring Boot', icon: 'spring-logo.png', size: 'hero' },
+      { name: 'Java', icon: 'coffee.png', size: 'hero' },
+      { name: 'Spring Boot', icon: 'spring.png', size: 'hero' },
       { name: 'Spring Core', icon: 'leaf.png' },
     ],
     [
@@ -100,31 +100,31 @@ export const portfolioData = {
       { name: 'JWT', icon: 'password.png' },
     ],
     [
-      { name: 'Kafka', icon: 'apache-kafka.png' },
-      { name: 'Pub/Sub', icon: 'message.png' },
+      { name: 'Kafka', icon: 'queue.png' },
+      { name: 'Pub/Sub', icon: 'chat.png' },
       { name: 'Low Latency', icon: 'flash-on.png' },
       { name: 'Multithreading', icon: 'parallel-tasks.png' },
     ],
     [
       { name: 'Oracle', icon: 'oracle-logo.png' },
-      { name: 'Couchbase', icon: 'couchbase.png' },
+      { name: 'Couchbase', icon: 'data-configuration.png' },
       { name: 'KDB+', icon: 'database.png' },
-      { name: 'JMX', icon: 'monitoring.png' },
+      { name: 'JMX', icon: 'activity-history.png' },
     ],
     [
       { name: 'Python', icon: 'python.png' },
-      { name: 'React JS', icon: 'react.png' },
+      { name: 'React JS', icon: 'react-native.png' },
       { name: 'Data Structures', icon: 'flow-chart.png' },
     ],
     [
       { name: 'Docker', icon: 'docker.png' },
       { name: 'Kubernetes', icon: 'kubernetes.png' },
       { name: 'Jenkins', icon: 'jenkins.png' },
-      { name: 'Azure', icon: 'azure.png' },
-      { name: 'OpenShift', icon: 'red-hat-openshift.png' },
+      { name: 'Azure', icon: 'microsoft.png' },
+      { name: 'OpenShift', icon: 'red-hat.png' },
     ],
     [
-      { name: 'Flyway', icon: 'database-migration.png' },
+      { name: 'Flyway', icon: 'import.png' },
       { name: 'Swagger', icon: 'api-settings.png' },
       { name: 'GitLab', icon: 'gitlab.png' },
       { name: 'Bitbucket', icon: 'bitbucket.png' },
