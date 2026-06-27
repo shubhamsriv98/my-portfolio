@@ -4,8 +4,7 @@ export const portfolioData = {
   siteTitle: 'Shubham Srivastava | Portfolio',
   logo: 'S.',
   name: 'Shubham.',
-  profileImage:
-    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1200&auto=format&fit=crop',
+  profileImage: img('shubham.jpeg'),
   resumePath: `${import.meta.env.BASE_URL}my_resume.pdf`,
 
   typingLines: [
