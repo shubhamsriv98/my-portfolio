@@ -2,8 +2,8 @@ const img = (name) => `${import.meta.env.BASE_URL}images/${name}`;
 
 export const portfolioData = {
   siteTitle: 'Shubham Srivastava | Portfolio',
-  logo: 'S.',
-  name: 'Shubham.',
+  logo: 'SKS',
+  name: 'Shubham Srivastava',
   profileImage: img('shubham.jpeg'),
   resumePath: `${import.meta.env.BASE_URL}my_resume.pdf`,
 
